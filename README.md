@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TCV570
-- 👀 I’m interested in Machine Learning, Web Development, Cybersecurity
-- 🌱 I’m currently learning Java and C#
+- 👀 I’m interested in Machine Learning, Web Development, Cybersecurity, and Mobile Development
+- 🌱 I have learned Java and C#
 
 - 📫 How to reach me ... don't.
 
